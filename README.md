@@ -1,2 +1,2 @@
 # skillforge
-Web technologies and DMBS Project
+Web technologies and DBMS Project
